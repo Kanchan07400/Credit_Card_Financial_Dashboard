@@ -130,3 +130,11 @@ Add predictive insights using time-series trends
 
 Integrate alerts for revenue or delinquency thresholds
 
+
+# Screenshot Image of Dashboard:
+<img width="1357" height="733" alt="Credit Card Cutomer Report" src="https://github.com/user-attachments/assets/27b53e90-8f6d-4f66-9a12-436866c6b22a" />
+
+<img width="1270" height="723" alt="Credit Card Transaction Report" src="https://github.com/user-attachments/assets/63b21e66-0366-4f96-a56c-be92d48f41de" />
+
+
+
