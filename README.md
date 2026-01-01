@@ -28,6 +28,7 @@ Power Query (ETL)
 DAX
 Data Modeling
 Excel (validation & support)
+
 🔄 Project Workflow
 
 Extracted large-scale transaction and customer data from SQL
@@ -36,7 +37,7 @@ Built relationships between transaction and customer tables
 Created measures and calculated columns using DAX
 Designed two interactive dashboards for deeper insights
 Published insights for business decision-making
-📊 Dashboards Created
+
 1️⃣ Credit Card Transaction Report
 
 KPI Cards: Revenue, Total Amount, Total Interest, Transaction Count
@@ -67,6 +68,7 @@ Gender-based and quarterly comparisons
 📊 Revenue peaks observed in Q3, indicating strong mid-year transaction activity
 👨‍💼 Businessman and White-collar customers contribute the highest revenue
 👩‍🎓 Graduates form the most revenue-generating education group
+
 ✅ Conclusion
 
 This project demonstrates how large-scale financial data can be transformed into clear, actionable business insights using Power BI.
