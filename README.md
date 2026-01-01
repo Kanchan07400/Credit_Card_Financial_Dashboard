@@ -136,6 +136,11 @@ Integrate alerts for revenue or delinquency thresholds
 
 
 
+
+
+
+
+
 <img width="1270" height="723" alt="Credit Card Transaction Report" src="https://github.com/user-attachments/assets/63b21e66-0366-4f96-a56c-be92d48f41de" />
 
 
