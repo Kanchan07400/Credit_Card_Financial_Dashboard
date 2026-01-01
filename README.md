@@ -32,11 +32,17 @@ Excel (validation & support)
 🔄 Project Workflow
 
 Extracted large-scale transaction and customer data from SQL
+
 Performed ETL operations using Power Query
+
 Built relationships between transaction and customer tables
+
 Created measures and calculated columns using DAX
+
 Designed two interactive dashboards for deeper insights
+
 Published insights for business decision-making
+
 
 1️⃣ Credit Card Transaction Report
 
