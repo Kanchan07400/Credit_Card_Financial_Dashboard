@@ -64,11 +64,17 @@ Gender-based and quarterly comparisons
 📈 Key Insights
 
 💰 Total Revenue: 55M
+
 💳 Total Interest Earned: 8M
+
 🧾 Highest spending category: Bills & essential expenditures
+
 🟦 Blue Card category generated ~46M, the highest revenue among all card types
+
 📊 Revenue peaks observed in Q3, indicating strong mid-year transaction activity
+
 👨‍💼 Businessman and White-collar customers contribute the highest revenue
+
 👩‍🎓 Graduates form the most revenue-generating education group
 
 ✅ Conclusion
