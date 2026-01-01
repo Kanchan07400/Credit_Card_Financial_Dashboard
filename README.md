@@ -14,20 +14,30 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 🗂️ Data Description
 
 Source: SQL Database
+
 Dataset Size: 656K+ rows
+
 Tables Used:
+
 Credit Card Transaction Details
+
 Customer Details
+
 Granularity(Level of Detail): Weekly & Quarterly
+
 
 ⚙️ Tools & Technologies Used
 
 Power BI Desktop
+
 SQL
+
 Power Query (ETL)
+
 DAX
+
 Data Modeling
-Excel (validation & support)
+
 
 🔄 Project Workflow
 
