@@ -1,17 +1,17 @@
-💳 Credit_Card_Financial_Dashboard
+# 💳 Credit_Card_Financial_Dashboard
 
-📌 Project Overview
+# 📌 Project Overview
 
 This project focuses on building an end-to-end Credit Card Transaction and Customer Analysis Dashboard using Power BI.
 The goal is to provide weekly and quarterly insights into credit card usage, revenue trends, customer behavior, and business performance using a large dataset.
 
 The project follows a complete ETL → Data Modeling → DAX → Dashboard → Insights workflow.
 
-🎯 Business Objective
+# 🎯 Business Objective
 
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to effectively monitor and analyze credit card operations.
 
-🗂️ Data Description
+# 🗂️ Data Description
 
 Source: SQL Database
 
@@ -26,7 +26,7 @@ Customer Details
 Granularity(Level of Detail): Weekly & Quarterly
 
 
-⚙️ Tools & Technologies Used
+# ⚙️ Tools & Technologies Used
 
 Power BI Desktop
 
@@ -39,7 +39,7 @@ DAX
 Data Modeling
 
 
-🔄 Project Workflow
+# 🔄 Project Workflow
 
 Extracted large-scale transaction and customer data from SQL
 
@@ -54,9 +54,9 @@ Designed two interactive dashboards for deeper insights
 Published insights for business decision-making
 
 
-1️⃣ Credit Card Transaction Report
+# 1️⃣ Credit Card Transaction Report
 
-KPI Cards: Revenue, Total Amount, Total Interest, Transaction Count
+# KPI Cards: Revenue, Total Amount, Total Interest, Transaction Count
 
 Revenue analysis by:
 
@@ -73,7 +73,7 @@ Chip Type
 Interactive slicers for Quarter, Gender, Card Category, Week Start Date
 
 
-2️⃣ Credit Card Customer Report
+# 2️⃣ Credit Card Customer Report
 
 Customer-focused insights:
 
@@ -92,7 +92,7 @@ Revenue by Dependent Count
 Gender-based and quarterly comparisons
 
 
-📈 Key Insights
+# 📈 Key Insights
 
 💰 Total Revenue: 55M
 
@@ -110,7 +110,7 @@ Gender-based and quarterly comparisons
 
 
 
-✅ Conclusion
+# ✅ Conclusion
 
 This project demonstrates how large-scale financial data can be transformed into clear, actionable business insights using Power BI.
 
@@ -118,7 +118,7 @@ The dashboards enable stakeholders to monitor performance, identify customer tre
 
 
 
-🚀 Future Enhancements
+# 🚀 Future Enhancements
 
 Automate data refresh using scheduled SQL updates
 
