@@ -93,11 +93,14 @@ Gender-based and quarterly comparisons
 👩‍🎓 Graduates form the most revenue-generating education group
 
 
+
 ✅ Conclusion
 
 This project demonstrates how large-scale financial data can be transformed into clear, actionable business insights using Power BI.
 
 The dashboards enable stakeholders to monitor performance, identify customer trends, and support data-driven decision-making.
+
+
 
 🚀 Future Enhancements
 
