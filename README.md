@@ -51,6 +51,7 @@ Chip Type
 Interactive slicers for Quarter, Gender, Card Category, Week Start Date
 
 2️⃣ Credit Card Customer Report
+
 Customer-focused insights:
 Revenue by Age Group
 Revenue by Education
