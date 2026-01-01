@@ -41,6 +41,7 @@ Published insights for business decision-making
 1️⃣ Credit Card Transaction Report
 
 KPI Cards: Revenue, Total Amount, Total Interest, Transaction Count
+
 Revenue analysis by:
 Quarter
 Card Category
