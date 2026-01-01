@@ -43,23 +43,38 @@ Published insights for business decision-making
 KPI Cards: Revenue, Total Amount, Total Interest, Transaction Count
 
 Revenue analysis by:
+
 Quarter
+
 Card Category
+
 Expenditure Type
+
 Job Type
+
 Chip Type
+
 Interactive slicers for Quarter, Gender, Card Category, Week Start Date
+
 
 2️⃣ Credit Card Customer Report
 
 Customer-focused insights:
+
 Revenue by Age Group
+
 Revenue by Education
+
 Revenue by Job Type
+
 Revenue by Income Group
+
 Revenue by Marital Status
+
 Revenue by Dependent Count
+
 Gender-based and quarterly comparisons
+
 
 📈 Key Insights
 
@@ -81,6 +96,7 @@ Gender-based and quarterly comparisons
 ✅ Conclusion
 
 This project demonstrates how large-scale financial data can be transformed into clear, actionable business insights using Power BI.
+
 The dashboards enable stakeholders to monitor performance, identify customer trends, and support data-driven decision-making.
 
 🚀 Future Enhancements
