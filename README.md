@@ -1,12 +1,14 @@
 💳 Credit_Card_Financial_Dashboard
 
 📌 Project Overview
+
 This project focuses on building an end-to-end Credit Card Transaction and Customer Analysis Dashboard using Power BI.
 The goal is to provide weekly and quarterly insights into credit card usage, revenue trends, customer behavior, and business performance using a large dataset.
 
 The project follows a complete ETL → Data Modeling → DAX → Dashboard → Insights workflow.
 
 🎯 Business Objective
+
 To develop a comprehensive credit card weekly dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to effectively monitor and analyze credit card operations.
 
 🗂️ Data Description
@@ -27,6 +29,7 @@ DAX
 Data Modeling
 Excel (validation & support)
 🔄 Project Workflow
+
 Extracted large-scale transaction and customer data from SQL
 Performed ETL operations using Power Query
 Built relationships between transaction and customer tables
